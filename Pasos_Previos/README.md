@@ -1,4 +1,4 @@
-# EXPLICACIÓN DE TODAS LAS PRÁCTICAS DE APRENDIZAJE PREVIO
+# 1<sub>er</sub>EXPLICACIÓN DE TODAS LAS PRÁCTICAS DE APRENDIZAJE PREVIO
 Esta es una página en la que vamos a mostrar todos los pasos de aprendizaje que realizamos antes e empezar con el desarrollo de proyectos de pre-ingeniería.
 
 ## Encendido alternativo de 2 diodos LED
